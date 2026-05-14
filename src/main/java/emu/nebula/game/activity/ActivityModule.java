@@ -50,9 +50,14 @@ public class ActivityModule extends GameContextModule {
         //this.activities.add(1010604);
         
         // Solitary Waltz in Night's Embrace
-        this.activities.add(2010201);
-        this.activities.add(2010203);
-        this.activities.add(2010204);
+        //this.activities.add(2010201);
+        //this.activities.add(2010203);
+        //this.activities.add(2010204);
+        
+        // Framing the Feelings Unseen
+        this.activities.add(1010701);
+        this.activities.add(1010703);
+        this.activities.add(1010704);
         
         // ===== Joint Drills (Finale Echoing) =====
         //this.activities.add(510003); // Causes soft lock in event screen
@@ -70,6 +75,7 @@ public class ActivityModule extends GameContextModule {
         //this.activities.add(301011);  // Christmas 2025
         //this.activities.add(301012);  // Christmas 2025
         this.activities.add(301031);    // Stellar Prelude
+        this.activities.add(301033);    // Price of the Star
         
         // Fatebound Stellar Deck
         //this.activities.add(800001); // Causes soft lock in event screen
